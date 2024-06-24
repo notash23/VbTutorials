@@ -110,6 +110,4 @@
             End If
         End Function
     End Class
-
-    ' Overloading methods
 End Module
